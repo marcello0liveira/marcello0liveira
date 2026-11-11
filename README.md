@@ -7,4 +7,4 @@ I ship AI features to production, end to end: models, APIs, and the products peo
 - **Frontend:** React, React Native, design systems (architect of Soma at XP Inc.), micro-frontends
 - 3× ACM ICPC South America finalist · B.Sc. Computer Engineering, UFPB
 
-Stories and cases → [m.sennela.com](https://m.sennela.com) · [LinkedIn](https://www.linkedin.com/in/marcello-marques-oliveira/)
+Stories and cases → [mrcll.me](https://mrcll.me) · [LinkedIn](https://www.linkedin.com/in/marcello-marques-oliveira/)
